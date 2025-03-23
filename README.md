@@ -1,4 +1,4 @@
-# rs-image-compressor-benchmark
+# rs-image-compressor Benchmark
 
 ## 風景写真
 
