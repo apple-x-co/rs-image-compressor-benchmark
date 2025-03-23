@@ -41,6 +41,14 @@
 
 色の滑らかな変化をどれだけ保持できるかが評価できます。
 
+`images/original/04.jpg`
+※ [link](https://unsplash.com/ja/写真/青と白の抽象画-J6LMHbdW1k8)
+
+|     | Original                    | rs-image-compressor                    | Optimage                    |
+|-----|-----------------------------|----------------------------------------|-----------------------------|
+| サイズ | 623,448 bytes               | 137,648 bytes                          | 220,712 bytes               |
+| 画像  | ![](images/original/04.jpg) | ![](images/rs-image-compressor/04.jpg) | ![](images/optimage/04.jpg) |
+
 ## パターン画像
 
 規則的なパターンがどれだけ効率的に圧縮できるか評価できます
