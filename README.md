@@ -67,7 +67,7 @@
 
 ### rs-image-compressor
 
-* use 0.1.4
+* use 0.1.5
 * [configure.json](images/rs-image-compressor/configure.json)
 
 ### Optimage
