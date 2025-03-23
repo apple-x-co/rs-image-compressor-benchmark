@@ -34,3 +34,11 @@
 ## パターン画像
 
 規則的なパターンがどれだけ効率的に圧縮できるか評価できます
+
+---
+
+## Preferences
+
+### Optimage
+
+![](images/optimage/preference.png)
