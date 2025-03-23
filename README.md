@@ -5,6 +5,7 @@
 空、山、海など、色の変化が緩やかな部分と、木々や草など、細かいディテールが多い部分の両方を含むものが適しています。
 
 `images/original/01.jpg`
+※ [link](https://unsplash.com/ja/写真/2人のサイクリストが風光明媚な景色を眺めることができます-KxXdo-k1cjE)
 
 | ファイル | Original        | rs-image-compressor                    | Optimage                    |
 |------|-----------------|----------------------------------------|-----------------------------|
@@ -17,6 +18,7 @@
 人物の顔の肌の質感、髪の毛のディテールなどが重要になります。
 
 `images/original/02.jpg`
+※ [link](https://unsplash.com/ja/写真/バルコニーの近くに立つ男性-5aGUyCW_PJw)
 
 | ファイル | Original                    | rs-image-compressor                    | Optimage                    |
 |------|-----------------------------|----------------------------------------|-----------------------------|
@@ -38,6 +40,10 @@
 ---
 
 ## Preferences
+
+### rs-image-compressor
+
+[configure.json](images/rs-image-compressor/configure.json)
 
 ### Optimage
 
