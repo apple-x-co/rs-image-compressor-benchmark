@@ -7,10 +7,10 @@
 `images/original/01.jpg`
 ※ [link](https://unsplash.com/ja/写真/2人のサイクリストが風光明媚な景色を眺めることができます-KxXdo-k1cjE)
 
-| ファイル | Original        | rs-image-compressor                    | Optimage                    |
-|------|-----------------|----------------------------------------|-----------------------------|
-| サイズ  | 1,829,050 bytes | 879,684 bytes                          | 1,445,615 bytes             |
-| 画像   | ![](images/original/01.jpg) | ![](images/rs-image-compressor/01.jpg) | ![](images/optimage/01.jpg) |
+|     | Original                    | rs-image-compressor                    | Optimage                    |
+|-----|-----------------------------|----------------------------------------|-----------------------------|
+| サイズ | 1,829,050 bytes             | 879,684 bytes                          | 1,445,615 bytes             |
+| 画像  | ![](images/original/01.jpg) | ![](images/rs-image-compressor/01.jpg) | ![](images/optimage/01.jpg) |
 
 
 ## ポートレート写真
@@ -20,14 +20,22 @@
 `images/original/02.jpg`
 ※ [link](https://unsplash.com/ja/写真/バルコニーの近くに立つ男性-5aGUyCW_PJw)
 
-| ファイル | Original                    | rs-image-compressor                    | Optimage                    |
-|------|-----------------------------|----------------------------------------|-----------------------------|
-| サイズ  | 3,573,153 bytes             | 1,455,847 bytes                        | 2,454,192 bytes             |
-| 画像   | ![](images/original/02.jpg) | ![](images/rs-image-compressor/02.jpg) | ![](images/optimage/02.jpg) |
+|     | Original                    | rs-image-compressor                    | Optimage                    |
+|-----|-----------------------------|----------------------------------------|-----------------------------|
+| サイズ | 3,573,153 bytes             | 1,455,847 bytes                        | 2,454,192 bytes             |
+| 画像  | ![](images/original/02.jpg) | ![](images/rs-image-compressor/02.jpg) | ![](images/optimage/02.jpg) |
 
 ## テキスト画像
 
 文字の鮮明さが重要になります。
+
+`images/original/03.jpg`
+※ [link](https://unsplash.com/ja/写真/白いテーブルに白いプリンター用紙-gETBUi_oRgQ)
+
+|     | Original                    | rs-image-compressor                    | Optimage                    |
+|-----|-----------------------------|----------------------------------------|-----------------------------|
+| サイズ | 2,738,405 bytes             | 1,313,079 bytes                        | 2,099,541 bytes             |
+| 画像  | ![](images/original/03.jpg) | ![](images/rs-image-compressor/03.jpg) | ![](images/optimage/03.jpg) |
 
 ## グラデーション画像
 
