@@ -53,6 +53,14 @@
 
 規則的なパターンがどれだけ効率的に圧縮できるか評価できます
 
+`images/original/05.jpg`
+※ [link](https://unsplash.com/ja/写真/たくさんの木々のある森の空撮-MUtNG8GurSQ)
+
+|     | Original                    | rs-image-compressor                    | Optimage                    |
+|-----|-----------------------------|----------------------------------------|-----------------------------|
+| サイズ | 3,164,900 bytes             | 1,787,138 bytes                        | 3,153,909 bytes             |
+| 画像  | ![](images/original/05.jpg) | ![](images/rs-image-compressor/05.jpg) | ![](images/optimage/05.jpg) |
+
 ---
 
 ## Preferences
