@@ -12,10 +12,16 @@
 | 画像   | ![](images/original/01.jpg) | ![](images/rs-image-compressor/01.jpg) | ![](images/optimage/01.jpg) |
 
 
-
 ## ポートレート写真
 
 人物の顔の肌の質感、髪の毛のディテールなどが重要になります。
+
+`images/original/02.jpg`
+
+| ファイル | Original                    | rs-image-compressor                    | Optimage                    |
+|------|-----------------------------|----------------------------------------|-----------------------------|
+| サイズ  | 3,573,153 bytes             | 1,455,847 bytes                        | 2,454,192 bytes             |
+| 画像   | ![](images/original/02.jpg) | ![](images/rs-image-compressor/02.jpg) | ![](images/optimage/02.jpg) |
 
 ## テキスト画像
 
