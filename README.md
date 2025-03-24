@@ -11,6 +11,12 @@
 
 ※ [original](https://unsplash.com/ja/写真/2人のサイクリストが風光明媚な景色を眺めることができます-KxXdo-k1cjE)
 
+|     | Original                    | rs-image-compressor                    | Optimage                    |
+|-----|-----------------------------|----------------------------------------|-----------------------------|
+| サイズ | 1,082,359 bytes             | 970,793 bytes                          | 721,467 bytes               |
+| 画像  | ![](images/original/01.png) | ![](images/rs-image-compressor/01.png) | ![](images/optimage/01.png) |
+
+※ [original](https://sozai-good.com/download?id=4780&type=2&subnumber=0&extention=png)
 
 ## ポートレート写真
 
