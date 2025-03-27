@@ -13,10 +13,10 @@
 
 |     | Original                    | rs-image-compressor                    | Optimage                    |
 |-----|-----------------------------|----------------------------------------|-----------------------------|
-| サイズ | 1,082,359 bytes             | 970,793 bytes                          | 721,467 bytes               |
+| サイズ | 4,081,560 bytes             | 4,041,596 bytes                        | 2,255,662 bytes             |
 | 画像  | ![](images/original/01.png) | ![](images/rs-image-compressor/01.png) | ![](images/optimage/01.png) |
 
-※ [original](https://sozai-good.com/download?id=4780&type=2&subnumber=0&extention=png)
+※ [original](https://pixabay.com/illustrations/mountain-nature-sky-forest-lake-8595014/)
 
 ## ポートレート写真
 
@@ -68,7 +68,7 @@
 
 ### rs-image-compressor
 
-* use 0.1.6
+* use 0.1.7
 * [configure.json](images/rs-image-compressor/configure.json)
 
 ### Optimage
