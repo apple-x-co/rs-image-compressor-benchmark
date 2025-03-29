@@ -61,6 +61,13 @@
 
 ※ [original](https://unsplash.com/ja/写真/青と白の抽象画-J6LMHbdW1k8)
 
+|     | Original                                      | rs-image-compressor                                                                    | Optimage                                      |
+|-----|-----------------------------------------------|----------------------------------------------------------------------------------------|-----------------------------------------------|
+| PNG | 738,640 bytes<br/>![](images/original/04.png) | 608,909 bytes<br/>![](images/rs-image-compressor/04.png)                               | 607,088 bytes<br/>![](images/optimage/04.png) |
+| PNG | -                                             | 384,787 bytes<br/>(Lossy compression)<br/>![](images/rs-image-compressor/04-lossy.png) | -                                             |
+
+※ [original](https://backgrounds-free.com/10-download/0906-large-image.html)
+
 ## パターン画像
 
 規則的なパターンがどれだけ効率的に圧縮できるか評価できます
