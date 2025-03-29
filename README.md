@@ -79,8 +79,9 @@
 
 ### rs-image-compressor
 
-* use 0.1.7
-* [configure.json](images/rs-image-compressor/configure.json)
+* use 0.1.8
+* [Lossless](images/rs-image-compressor/configure.json)
+* [Lossy](images/rs-image-compressor/configure-lossy.json)
 
 ### Optimage
 
