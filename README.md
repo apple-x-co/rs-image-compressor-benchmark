@@ -4,19 +4,16 @@
 
 空、山、海など、色の変化が緩やかな部分と、木々や草など、細かいディテールが多い部分の両方を含むものが適しています。
 
-| JPEG | Original                    | rs-image-compressor                    | Optimage                    |
-|------|-----------------------------|----------------------------------------|-----------------------------|
-| サイズ  | 1,829,050 bytes             | 879,684 bytes                          | 1,445,615 bytes             |
-| 画像   | ![](images/original/01.jpg) | ![](images/rs-image-compressor/01.jpg) | ![](images/optimage/01.jpg) |
+|      | Original                                        | rs-image-compressor                                      | Optimage                                        |
+|------|-------------------------------------------------|----------------------------------------------------------|-------------------------------------------------|
+| JPEG | 1,829,050 bytes<br/>![](images/original/01.jpg) | 879,684 bytes<br/>![](images/rs-image-compressor/01.jpg) | 1,445,615 bytes<br/>![](images/optimage/01.jpg) |
 
 ※ [original](https://unsplash.com/ja/写真/2人のサイクリストが風光明媚な景色を眺めることができます-KxXdo-k1cjE)
 
-| PNG | Original                    | rs-image-compressor                          | Optimage                    |
-|-----|-----------------------------|----------------------------------------------|-----------------------------|
-| サイズ | 4,081,560 bytes             | 4,041,596 bytes                              | 2,255,662 bytes             |
-| 画像  | ![](images/original/01.png) | ![](images/rs-image-compressor/01.png)       | ![](images/optimage/01.png) |
-| サイズ | -                           | 1,158,481 bytes<br/>(Lossy compression)      | -                           |
-| 画像  | -                           | ![](images/rs-image-compressor/01-lossy.png) | -                           |
+|     | Original                                        | rs-image-compressor                                                                      | Optimage                                        |
+|-----|-------------------------------------------------|------------------------------------------------------------------------------------------|-------------------------------------------------|
+| PNG | 4,081,560 bytes<br/>![](images/original/01.png) | 4,041,596 bytes<br/>![](images/rs-image-compressor/01.png)                               | 2,255,662 bytes<br/>![](images/optimage/01.png) |
+| PNG | -                                               | 1,158,481 bytes<br/>(Lossy compression)<br/>![](images/rs-image-compressor/01-lossy.png) | -                                               |
 
 ※ [original](https://pixabay.com/illustrations/mountain-nature-sky-forest-lake-8595014/)
 
@@ -24,19 +21,16 @@
 
 人物の顔の肌の質感、髪の毛のディテールなどが重要になります。
 
-| JPEG | Original                    | rs-image-compressor                    | Optimage                    |
-|------|-----------------------------|----------------------------------------|-----------------------------|
-| サイズ  | 3,573,153 bytes             | 1,455,847 bytes                        | 2,454,192 bytes             |
-| 画像   | ![](images/original/02.jpg) | ![](images/rs-image-compressor/02.jpg) | ![](images/optimage/02.jpg) |
+|      | Original                                        | rs-image-compressor                                        | Optimage                                        |
+|------|-------------------------------------------------|------------------------------------------------------------|-------------------------------------------------|
+| JPEG | 3,573,153 bytes<br/>![](images/original/02.jpg) | 1,455,847 bytes<br/>![](images/rs-image-compressor/02.jpg) | 2,454,192 bytes<br/>![](images/optimage/02.jpg) |
 
 ※ [original](https://unsplash.com/ja/写真/バルコニーの近くに立つ男性-5aGUyCW_PJw)
 
-| PNG | Original                    | rs-image-compressor                          | Optimage                    |
-|-----|-----------------------------|----------------------------------------------|-----------------------------|
-| サイズ | 1,705,328 bytes             | 1,563,125 bytes                              | 940,557 bytes               |
-| 画像  | ![](images/original/02.png) | ![](images/rs-image-compressor/02.png)       | ![](images/optimage/02.png) |
-| サイズ | -                           | 472,899 bytes<br/>(Lossy compression)        | -                           |
-| 画像  | -                           | ![](images/rs-image-compressor/02-lossy.png) | -                           |
+| PNG | Original                                        | rs-image-compressor                                            | Optimage                                      |
+|-----|-------------------------------------------------|----------------------------------------------------------------|-----------------------------------------------|
+| 画像  | 1,705,328 bytes<br/>![](images/original/02.png) | 1,563,125 bytes<br/>![](images/rs-image-compressor/02.png)     | 940,557 bytes<br/>![](images/optimage/02.png) |
+| 画像  | -                                               | 472,899 bytes<br/>(Lossy compression)<br/>![](images/rs-image-compressor/02-lossy.png) | -                                             |
 
 ※ Generated by ChatGTP
 
@@ -44,21 +38,26 @@
 
 文字の鮮明さが重要になります。
 
-| JPEG | Original                    | rs-image-compressor                    | Optimage                    |
-|------|-----------------------------|----------------------------------------|-----------------------------|
-| サイズ  | 2,738,405 bytes             | 1,313,079 bytes                        | 2,099,541 bytes             |
-| 画像   | ![](images/original/03.jpg) | ![](images/rs-image-compressor/03.jpg) | ![](images/optimage/03.jpg) |
+| JPEG | Original                                        | rs-image-compressor                                        | Optimage                                        |
+|------|-------------------------------------------------|------------------------------------------------------------|-------------------------------------------------|
+| 画像   | 2,738,405 bytes<br/>![](images/original/03.jpg) | 1,313,079 bytes<br/>![](images/rs-image-compressor/03.jpg) | 2,099,541 bytes<br/>![](images/optimage/03.jpg) |
 
 ※ [original](https://unsplash.com/ja/写真/白いテーブルに白いプリンター用紙-gETBUi_oRgQ)
+
+| PNG | Original                    | rs-image-compressor                          | Optimage                    |
+|-----|-----------------------------|----------------------------------------------|-----------------------------|
+| 画像  | 1,984,709 bytes<br/>![](images/original/03.png) | 1,855,943 bytes<br/>![](images/rs-image-compressor/03.png)       | 1,148,815 bytes<br/>![](images/optimage/03.png) |
+| 画像  | -                           | 497,994 bytes<br/>(Lossy compression)<br/>![](images/rs-image-compressor/03-lossy.png) | -                           |
+
+※ Generated by ChatGTP
 
 ## グラデーション画像
 
 色の滑らかな変化をどれだけ保持できるかが評価できます。
 
-|     | Original                    | rs-image-compressor                    | Optimage                    |
-|-----|-----------------------------|----------------------------------------|-----------------------------|
-| サイズ | 623,448 bytes               | 137,648 bytes                          | 220,712 bytes               |
-| 画像  | ![](images/original/04.jpg) | ![](images/rs-image-compressor/04.jpg) | ![](images/optimage/04.jpg) |
+|      | Original                                      | rs-image-compressor                                      | Optimage                                      |
+|------|-----------------------------------------------|----------------------------------------------------------|-----------------------------------------------|
+| JPEG | 623,448 bytes<br/>![](images/original/04.jpg) | 137,648 bytes<br/>![](images/rs-image-compressor/04.jpg) | 220,712 bytes<br/>![](images/optimage/04.jpg) |
 
 ※ [original](https://unsplash.com/ja/写真/青と白の抽象画-J6LMHbdW1k8)
 
@@ -66,10 +65,9 @@
 
 規則的なパターンがどれだけ効率的に圧縮できるか評価できます
 
-|     | Original                    | rs-image-compressor                    | Optimage                    |
-|-----|-----------------------------|----------------------------------------|-----------------------------|
-| サイズ | 3,164,900 bytes             | 1,787,138 bytes                        | 3,153,909 bytes             |
-| 画像  | ![](images/original/05.jpg) | ![](images/rs-image-compressor/05.jpg) | ![](images/optimage/05.jpg) |
+|      | Original                                        | rs-image-compressor                                        | Optimage                                        |
+|------|-------------------------------------------------|------------------------------------------------------------|-------------------------------------------------|
+| JPEG | 3,164,900 bytes<br/>![](images/original/05.jpg) | 1,787,138 bytes<br/>![](images/rs-image-compressor/05.jpg) | 3,153,909 bytes<br/>![](images/optimage/05.jpg) |
 
 ※ [original](https://unsplash.com/ja/写真/たくさんの木々のある森の空撮-MUtNG8GurSQ)
 
