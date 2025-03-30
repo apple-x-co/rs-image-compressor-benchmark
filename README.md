@@ -104,3 +104,18 @@
 
 * PNG
   * [Quality](images/rs-image-compressor/png/quality/README.md)
+  * Strip
+  * Interlacing
+  * Optimize alpha
+  * Lossy
+    * Quality
+    * Speed
+    * Colors
+* JPEG
+  * Quality
+  * Scan optimization mode
+  * Progressive mode
+  * Optimize coding
+  * Use scans in trellis
+  * Smoothing factor
+  * Exif
