@@ -89,7 +89,7 @@
 
 ### rs-image-compressor
 
-* use 0.1.8
+* use 0.1.10
 * config
   * [Lossless compression](images/rs-image-compressor/configure.json)
   * [Lossy compression](images/rs-image-compressor/configure-lossy.json)
@@ -104,7 +104,7 @@
 
 * PNG
   * [Quality](images/rs-image-compressor/png/quality/README.md)
-  * Strip
+  * [Strip](images/rs-image-compressor/png/strip/README.md)
   * Interlacing
   * Optimize alpha
   * Lossy
