@@ -105,7 +105,7 @@
 * PNG
   * [Quality](images/rs-image-compressor/png/quality/README.md)
   * [Strip](images/rs-image-compressor/png/strip/README.md)
-  * Interlacing
+  * [Interlacing](images/rs-image-compressor/png/interlacing/README.md)
   * Optimize alpha
   * Lossy
     * Quality
