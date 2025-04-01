@@ -106,7 +106,9 @@
   * [Quality](images/rs-image-compressor/png/quality/README.md)
   * [Strip](images/rs-image-compressor/png/strip/README.md)
   * [Interlacing](images/rs-image-compressor/png/interlacing/README.md)
-  * Optimize alpha
+  * [Optimize alpha](images/rs-image-compressor/png/optimize_alpha/README.md)
+  * Libdeflater
+  * Zopfli
   * Lossy
     * Quality
     * Speed
