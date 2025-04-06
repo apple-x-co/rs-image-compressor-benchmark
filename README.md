@@ -108,7 +108,7 @@
   * [Interlacing](images/rs-image-compressor/png/interlacing/README.md)
   * [Optimize alpha](images/rs-image-compressor/png/optimize_alpha/README.md)
   * [Libdeflater](images/rs-image-compressor/png/libdeflater/README.md)
-  * Zopfli
+  * [Zopfli](images/rs-image-compressor/png/zopfli/README.md)
   * Lossy
     * Quality
     * Speed
